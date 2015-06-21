@@ -1,0 +1,4 @@
+name = Commerce Views
+description = Disables the views that come with Drupal Commerce so we can use features versions of them instead.
+core = 7.x
+package = ADFL Views
